@@ -28,3 +28,8 @@ https://www.quora.com/What-are-the-advantages-of-different-classification-algori
 
 [Pipelin](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
 
+## image classification 
+https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
+http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
+https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+https://github.com/yunjey/pytorch-tutorial
