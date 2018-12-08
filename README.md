@@ -33,3 +33,16 @@ https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-p
 http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
 https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
 https://github.com/yunjey/pytorch-tutorial
+
+## Misc
+http://www-bcf.usc.edu/~gareth/ISL/
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html
+
+## pca
+https://onlinecourses.science.psu.edu/stat505/node/54
+
+http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+
+
