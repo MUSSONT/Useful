@@ -45,4 +45,11 @@ https://onlinecourses.science.psu.edu/stat505/node/54
 
 http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 
+##python
+https://realpython.com/instance-class-and-static-methods-demystified/
 
+https://www.python-course.eu/python3_class_and_instance_attributes.php
+
+https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556
+
+https://realpython.com/primer-on-python-decorators/
